@@ -1,0 +1,71 @@
+body {
+	background-color: #92a8d1;
+	border-radius: 8px;
+}
+
+img {
+  padding: 5px;
+  width: 120px;
+  margin-left: 550px;
+  margin-right: auto;
+}
+
+input {
+	width: 50%;
+	padding: 12px 20px;
+	border-radius: 7px;
+	margin-top: 25px;
+	box-sizing: border-box;
+	box-shadow: 0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06);
+	border: none;
+	font-size: 15px;
+}
+
+label {
+	font-size: 13px;
+
+}
+
+input[type="submit"]{
+	padding: 16px 32px;
+	border-radius: 18px;
+}
+select {
+	width: 58%;
+	padding: 16px 20px;
+	border-radius: 5px;
+	border: none;
+	font-size: 13px;
+	box-shadow: 0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06);
+}
+.container {
+	border-radius: 20px;
+	background-color: white;
+	margin-top: 30px;
+	width: 35%;
+	margin-left: 30%;
+	font-family: sans-serif;
+}
+.new {
+	text-align: center;
+	color: blue;
+	margin-top: 2px;
+
+}
+
+.contain {
+	border-radius: 5px;
+	padding: 50px;
+	width: 150%;
+}
+.col {
+	float: left;
+	width: 75%;
+	margin-top: 6px;
+}
+.bod {
+	text-align: center; 
+	align-content: center;
+	margin-top: 20px;
+	color: white;
+}
